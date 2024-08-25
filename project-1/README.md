@@ -3,3 +3,5 @@
 This is prepared using below link:
 https://dev.to/aws-builders/configure-a-remote-backend-with-aws-s3-and-dynamodb-state-locking-in-terraform-3jne
 
+- Upload a file using s3 object upload in terraform
+
